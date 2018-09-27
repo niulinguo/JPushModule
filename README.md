@@ -1,0 +1,2 @@
+# JPushModule
+jpush wrap
